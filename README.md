@@ -45,6 +45,6 @@ Si quieres hablar sobre desarrollo, colaborar en un proyecto o simplemente salud
 
 ---
 
-### 🚀 Proyectos Destacados
-* **Taskify**: Aplicación de gestión de tareas con React y Firebase.
-* **MedIntegral**: Solución frontend para gestión de servicios médicos.
+* **[Taskify](https://github.com/LuanaArias/Taskify)**: Aplicación de gestión de tareas desarrollada con **React, Node.js, SQLite y Firebase**.
+* **[PlanIt](https://github.com/LuanaArias/Planit)**: Sistema de gestión avanzado utilizando **React, Java (Spring Boot), PostgreSQL, Firebase y Docker**.
+* **[MedIntegral](https://github.com/LuanaArias/MedIntegral-Frontend)**: Solución integral para servicios médicos con **React, Node.js, PostgreSQL, Redis y Docker**.
