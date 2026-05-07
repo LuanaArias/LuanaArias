@@ -2,7 +2,10 @@
 
 ### Desarrolladora Full-Stack | Java · JavaScript · React · Node.js · APIs REST
 
-Soy una desarrolladora enfocada en construir aplicaciones web robustas y escalables. Me apasiona el ecosistema de JavaScript y el backend con Java, buscando siempre aplicar buenas prácticas de ingeniería de software.
+Soy Técnica en Programación y estudiante de la Licenciatura en Informática, enfocada en el desarrollo de aplicaciones web modernas, robustas y escalables. Me apasiona crear soluciones funcionales combinando frontend y backend, especialmente trabajando con tecnologías como React, JavaScript, Java y Spring Boot.
+
+Disfruto aprender nuevas herramientas, aplicar buenas prácticas de ingeniería de software y desarrollar proyectos que prioricen tanto la experiencia de usuario como la calidad del código.
+
 
 ---
 
