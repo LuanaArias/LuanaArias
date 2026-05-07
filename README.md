@@ -27,9 +27,7 @@ Soy una desarrolladora enfocada en construir aplicaciones web robustas y escalab
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanaArias&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Luana" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaArias&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Lenguajes más usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanaArias&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 ---
