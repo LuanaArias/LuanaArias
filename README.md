@@ -30,6 +30,10 @@ Soy una desarrolladora enfocada en construir aplicaciones web robustas y escalab
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanaArias&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=LuanaArias&theme=tokyonight" alt="Trofeos de Luana" />
+</p>
+
 ---
 
 ### 📫 Contacto
